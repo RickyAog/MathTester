@@ -8,7 +8,7 @@ public class Main {
 	int firstNumber,secondNumber,total;
 
 
-
+System.out.println("");
 
 
 	firstWord = "dog";
@@ -19,6 +19,27 @@ public class Main {
 	System . out . println(total);
 	total = total + 10;
 	System.out.println(total);
+	System.out.println(firstWord + secondWord);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	/*System.out.println(firstWord+secondWord);
 	System.out.println(firstWord+(firstNumber+secondNumber));
